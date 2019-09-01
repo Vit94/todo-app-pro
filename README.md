@@ -1,7 +1,9 @@
-Todo application with context, hooks, lazy loading.
-No Redux yet.
+Todo application with context, hooks, lazy loading.<br />
+No Redux yet.<br />
 
-To install dependencies run 'yarn'.
-To start run 'yarn start'.
-To build run 'yarn build'.
-To run tests run 'yarn test'.
+<ul>
+  <li>To install dependencies run 'yarn'.</li>
+<li>To start run 'yarn start'.</li>
+<li>To build run 'yarn build'.</li>
+<li>To run tests run 'yarn test'.</li>
+  </ul>
